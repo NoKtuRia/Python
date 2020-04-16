@@ -1,2 +1,2 @@
 # Python
- Contiens tout mes srcipts Python actuels et ceux a venir.
+ Ce répertoire contient mes scripts Python actuels et prochiains les plus intéressants.
